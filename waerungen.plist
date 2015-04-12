@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Australien Dollars</string>
+	<string>Bulgarian Lew</string>
+	<string>Brazilian Real</string>
+	<string>Canadian Dollar</string>
+	<string>Swiss Franken</string>
+	<string>Renminbi (Yuan)</string>
+	<string>Czech Koruna</string>
+	<string>Danish Krone</string>
+	<string>Pound GB</string>
+	<string>HK Dollar</string>
+	<string>Croatian Kuna</string>
+	<string>Hungarian Forint</string>
+	<string>Indonisian Rupiah</string>
+</array>
+</plist>
